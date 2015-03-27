@@ -16,4 +16,6 @@ Vous pouvez également ajouter des idées de présentations, même si vous ne so
 
 ####tags : 
 
-[next lunch](https://github.com/dojo-toulouse/bbl/labels/Next%20Lunch) : Le sujet du prochain déjeuner
+* [next lunch](https://github.com/dojo-toulouse/bbl/labels/Next%20Lunch) : Le sujet du prochain déjeuner
+* [<= 10 min](https://github.com/dojo-toulouse/bbl/labels/%3C%3D%2010%20min) : Une petite présentation.
+* [need help](https://github.com/dojo-toulouse/bbl/labels/need%20help) : J'aimerais bien que quelqu'un parle de ce sujet.
