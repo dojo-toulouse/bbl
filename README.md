@@ -1,7 +1,7 @@
 # BBL - Brown Bag Lunch
 
 Nos déjeuners ont lieu un vendredi sur deux (semaine paire) à midi dans les locaux d'Étincelle Coworking (2, rue d'Austerlitz, Place Wilson).
-http://www.coworking-toulouse.com/event/it-lunch/
+http://www.coworking-toulouse.com/event/brown-bag-lunch/all/
 
 ### Suggestions de présentations - talks wishlist for brown bag lunches
 
